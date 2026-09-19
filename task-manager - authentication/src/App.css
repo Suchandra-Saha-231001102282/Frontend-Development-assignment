@@ -1,0 +1,44 @@
+.login-subtitle {
+  color: #6b7280;
+  margin-top: -5px;
+  margin-bottom: 10px;
+}
+
+.login-card label {
+  font-weight: bold;
+}
+
+.remember-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: normal !important;
+  cursor: pointer;
+}
+
+.remember-option input {
+  width: auto;
+  cursor: pointer;
+}
+
+.password-strength {
+  margin: 0;
+  font-weight: bold;
+}
+
+.password-strength.weak {
+  color: #dc2626;
+}
+
+.password-strength.medium {
+  color: #d97706;
+}
+
+.password-strength.strong {
+  color: #16a34a;
+}
+
+.nav-user {
+  font-size: 14px;
+  color: #d1d5db;
+}
