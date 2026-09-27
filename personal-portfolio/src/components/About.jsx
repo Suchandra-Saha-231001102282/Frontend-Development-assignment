@@ -7,7 +7,7 @@ function About() {
       <div className="about-card">
 
         <p>
-          Hello! My name is Soham Shyamal.
+          Hello! My name is Suchandra Saha.
           I am currently pursuing Bachelor of Computer
           Applications (BCA).
         </p>

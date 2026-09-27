@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="logo">Soham Shyamal</div>
+      <div className="logo">Suchandra Saha</div>
 
       <ul className="nav-links">
         <li>

@@ -3,7 +3,7 @@ function Footer() {
     <footer className="footer">
 
       <p>
-        © 2026 Soham Shyamal. All Rights Reserved.
+        © 2026 Suchandra Saha. All Rights Reserved.
       </p>
 
     </footer>

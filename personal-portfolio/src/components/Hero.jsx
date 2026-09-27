@@ -8,7 +8,7 @@ function Hero() {
         </p>
 
         <h1>
-          Hi, I'm <span>Soham Shyamal</span>
+          Hi, I'm <span>Suchandra Saha</span>
         </h1>
 
         <h2>

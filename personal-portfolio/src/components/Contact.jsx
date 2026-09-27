@@ -7,15 +7,15 @@ function Contact() {
       <div className="contact-card">
 
         <p>
-          <strong>Name:</strong> Soham Shyamal
+          <strong>Name:</strong> Suchandra Saha
         </p>
 
         <p>
-          <strong>Email:</strong> sohamshyamal81@gmail.com
+          <strong>Email:</strong> suchandrasaha075@gmail.com
         </p>
 
         <p>
-          <strong>Phone:</strong> +91 7864027317
+          <strong>Phone:</strong> +91 6290957100
         </p>
 
         <p>
@@ -23,7 +23,7 @@ function Contact() {
         </p>
 
         <p>
-          <strong>GitHub:</strong> github.com/Soham2319
+          <strong>GitHub:</strong> github.com/Suchandra-Saha-231001102282
         </p>
 
       </div>
